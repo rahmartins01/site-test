@@ -197,6 +197,5 @@ body{
 }
 
 
-@media (prefers-reduced-motion: reduce){
-  .btn{ transition: none; }
-}
+
+
