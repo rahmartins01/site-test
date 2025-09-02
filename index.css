@@ -1,13 +1,8 @@
-/* ==============================
-   Conversando com a Rayssa — CSS
-   Estilo: minimalista, colorido, acessível
-   ============================== */
 
-/* --------- Variáveis de tema --------- */
 :root{
-  --bg: #F7EEDC;          /* creme claro do fundo */
-  --ink: #2b2b2b;         /* texto principal */
-  --muted: #5e5e5e;       /* texto secundário */
+  --bg: #F7EEDC;         
+  --ink: #2b2b2b;         
+  --muted: #5e5e5e;       
   --brand-purple: #6A55C2;
   --brand-teal:   #13A38C;
   --brand-orange: #E96A2B;
